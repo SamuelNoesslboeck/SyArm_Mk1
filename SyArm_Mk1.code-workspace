@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Libraries/stepper_lib"
+		},
+		{
+			"path": "../../Libraries/syarm_lib"
+		},
+		{
+			"path": "../../Construction/Standard-Parts"
+		}
+	],
+	"settings": {}
+}

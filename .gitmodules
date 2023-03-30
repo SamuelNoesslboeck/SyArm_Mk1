@@ -4,6 +4,3 @@
 [submodule "code/syarm_lib"]
 	path = code/syarm_lib
 	url = https://github.com/SamuelNoesslboeck/syarm_lib
-[submodule "construction/A1_SimpleFrame_Mk1"]
-	path = construction/A1_SimpleFrame_Mk1
-	url = https://github.com/SamuelNoesslboeck/SimpleFrame_Mk1
